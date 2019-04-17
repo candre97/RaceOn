@@ -11,5 +11,8 @@ The scripts uploaded to the GitHub repo are cleaned up versions of what you will
 raceon_lap2.py = raceon--> pwmpy --> EbraFail.ipynb
 racedaychanges.py = raceon--> pwmpy --> slowandsteadywinstherace-raceready-final-aggro-2.ipynb
 
+To get a copy of the entire environment we used download raceon.zip 
+Ignore stupid file names and generally unogranized files everywhere... 
+
 Check out the competition website for more details:
 https://sites.google.com/usc.edu/raceon/home
